@@ -15,6 +15,7 @@ body {
     top:0;
     width: 100%;
     padding: 10px;
+    opacity: 0.5;
 }
 
 .data {
@@ -33,6 +34,7 @@ body {
     height: 85px;
     text-align: center;
     padding: 30px;
+    opacity: 0.5;
 }
 
 .image {
